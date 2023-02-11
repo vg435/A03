@@ -1,5 +1,5 @@
 # A03
-Part 1: How to use Webstorm
+<h1>Part 1: How to use Webstorm</h1>
 <ol>
   <li>First, you have to download the software from a website like <a href="https://www.jetbrains.com/webstorm/">Jetbrains</a>.
   </li>
@@ -16,7 +16,7 @@ Part 1: How to use Webstorm
 </ol>
 <br>
 <br>
-Part 2:
+<h1>Part 2: Glossary</h1>
 <ul>
   <li><b>Branch</b> - 
     A branch is contained within your repository, but the code you write inside of it won't affect the main branch until you merge the two together (Github, n.d.). Branches let you experiment with your code safely, because it won't affect your main branch until you merge the branches.
@@ -57,7 +57,7 @@ Part 2:
 </ul>
 <br>
 <br>
-References
+<h1>References</h1>
 <ul>
   <li>JetBrains. (n.d.). Enable version control: WebStorm. WebStorm Help. Retrieved February 11, 2023, from <a href="https://www.jetbrains.com/help/webstorm/enabling-version-control.html#associate_project_with_VCS">https://www.jetbrains.com/help/webstorm/enabling-version-control.html#associate_project_with_VCS</a> 
   </li>
