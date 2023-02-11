@@ -9,6 +9,10 @@ Part 1: How to use Webstorm
   </li>
   <li> Once you install Webstorm, it's recommended you go into your settings and link Git and your GitHub account to Webstorm. You can find this in the "Version Control" section in your settings. You can install Git at <a href="https://git-scm.com/">https://git-scm.com/</a> and create a GitHub account <a href="https://github.com/">here</a>.
   </li>
+  <li> To start using Webstorm, click "File" and create a "New Project". After you've created a New Project, you must add a "New File" in order to start writing code.
+  </li>
+  <li> To upload your code onto Github, click "VCS" and select "Create Git Repository..." or "Share Project on Github". You can only do this once you've downloaded Git or created a Github account. You can also enable "Version Control Integration" to connect to Git.
+  </li>
 </ol>
 <br>
 <br>
