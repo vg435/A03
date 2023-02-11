@@ -1,7 +1,13 @@
 # A03
 Part 1: How to use Webstorm
 <ol>
-  <li>First, you have to download the software from a website like <a href="https://www.jetbrains.com/webstorm/">Jetbrains</a>.
+  <li>First, you have to download the software from a website like <a href="https://www.jetbrains.com/webstorm/" target="_blank">Jetbrains</a>.
+  </li>
+  <li>When installing the files, you can configure Webstorm for your use.
+  </li>
+  <li>After installing, you must activate your license in order to use Webstorm.
+  </li>
+  <li> Once you install Webstorm, it's recommended you go into your settings and link Git and your GitHub account to Webstorm. You can find this in the "Version Control" section in your settings. You can install Git at <a href="https://git-scm.com/" target="_blank">https://git-scm.com/</a> and create a GitHub account <a href="https://github.com/" target="_blank">here</a>.
   </li>
 </ol>
 <br>
