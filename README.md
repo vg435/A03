@@ -17,7 +17,7 @@ Part 2:
   <li><b>GIT</b> - 
     Git is an open source program that tracks changes in text files.
   </li>
-  <li><b>Github</b>< - 
+  <li><b>Github</b> - 
     Github is an online hosting service for software made using Git. You can host code and webpages on GitHub.
   </li>
   <li><b>Merge</b> - 
