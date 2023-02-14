@@ -16,6 +16,22 @@
 </ol>
 <br>
 <br>
+<h1>Part 1: How to use Github</h1>
+<ol>
+  <li>Sign up for Github. You can create a GitHub account <a href="https://github.com/">here</a>.</li>
+  <li>Create a new repository. These are essentially the folders for your projects and they can hold store your project files. Your repositories can either be public or private.</li>
+  <li>Once you've made a repository, you should create a branch. Your repository will always automatically have a master branch.</li>
+  <li>To commit changes in your branch, scroll down to the bottom of the page and click the button saying "Commit changes".</li>
+<br>
+<br>
+<h1>Part 1: How to use Git</h1>
+<ol>
+  <li>Install Git at <a href="https://git-scm.com/">https://git-scm.com/</a>.</li>
+  <li>Once you've installed the app, open up Git GUI and create a new repository. You add this local repository to GitHub.</li>
+  <li>Create a branch on Git. You can also create a new branch by running "git branch [new_branch_name]" on GitBash.</li>
+  <li>After you've added some files to your repository, you can create a commit.</li>
+<br>
+<br>
 <h1>Part 2: Glossary</h1>
 <ul>
   <li><b>Branch</b> - 
